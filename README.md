@@ -48,8 +48,8 @@ cd pokemon-classifier
 pip install -r requirements.txt
 
 📊 Results
-Training Accuracy: (Add your result here)
+Training Accuracy: 0.9812
 
-Validation Accuracy: (Add your result here)
+Validation Accuracy: .8472
 
-Test Accuracy: (Optional, if you manually label test set)
+Test Accuracy: 0.9597
