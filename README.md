@@ -5,20 +5,20 @@ This project implements an image classification model that can identify **up to 
 
 ## 📂 Dataset Structure
 
-The dataset is organized as follows:
-data/ \n
-├── train/\n
-│ ├── Bulbasaur/\n
-│ │ ├── img1.jpg\n
-│ │ ├── img2.jpg\n
-│ ├── Pikachu/\n
-│ │ ├── img1.jpg\n
-│ │ ├── img2.jpg\n
-│ └── ... (149 Pokémon class folders, each with 30–100 images)\n
-├── test/\n
-│ ├── 0001.jpg\n
-│ ├── 0002.jpg\n
-│ └── ... (2195 total test images)\n
+-The dataset is organized as follows:
+-data/ 
+-├── train/
+-│ ├── Bulbasaur/
+-│ │ ├── img1.jpg
+-│ │ ├── img2.jpg
+-│ ├── Pikachu/
+-│ │ ├── img1.jpg
+-│ │ ├── img2.jpg
+-│ └── ... (149 Pokémon class folders, each with 30–100 images)
+-├── test/
+-│ ├── 0001.jpg
+-│ ├── 0002.jpg
+-│ └── ... (2195 total test images)
 
 - Images are resized to **256x256 pixels**.
 - Labels for training are automatically extracted from folder names.
