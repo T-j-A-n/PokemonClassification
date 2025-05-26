@@ -5,8 +5,8 @@ This project implements an image classification model that can identify **up to 
 
 ## 📂 Dataset Structure
 
-The dataset is organized as follows:\n
-data/\n
+The dataset is organized as follows:
+data/ \n
 ├── train/\n
 │ ├── Bulbasaur/\n
 │ │ ├── img1.jpg\n
