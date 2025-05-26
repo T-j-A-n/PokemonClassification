@@ -47,9 +47,11 @@ git clone https://github.com/your-username/pokemon-classifier.git
 cd pokemon-classifier
 pip install -r requirements.txt
 
-📊 Results
-Training Accuracy: 0.9812
+```
 
-Validation Accuracy: .8472
+## 📊 Results
+- Training Accuracy: 0.9812
 
-Test Accuracy: 0.9597
+- Validation Accuracy: .8472
+
+- Test Accuracy: 0.9597
