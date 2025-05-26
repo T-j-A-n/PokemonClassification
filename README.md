@@ -47,6 +47,9 @@ git clone https://github.com/your-username/pokemon-classifier.git
 cd pokemon-classifier
 pip install -r requirements.txt
 
+For dataset download:
+kaggle competitions download -c dhi-club-tired-weekends-4thsem-1
+
 ```
 
 ## 📊 Results
